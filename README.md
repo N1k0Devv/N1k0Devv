@@ -57,4 +57,4 @@ Website for a stone factory in Kutaisi. ([source](https://github.com/N1k0Devv/ku
 
 [n1kodev.com](https://www.n1kodev.com) · [flowdaily.org](https://flowdaily.org) · [GitHub](https://github.com/N1k0Devv)
 
-Outside of work I train calisthenics and I'm learning guitar.
+Outside of work I've been training in the gym for 3 years, I also do calisthenics, and I'm learning guitar. I try to be a little better every day.
