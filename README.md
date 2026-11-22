@@ -18,6 +18,7 @@ Developer based in Kutaisi, Georgia. I run [N1kodev Studio](https://www.n1kodev.
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -52,6 +53,16 @@ Website for a stone factory in Kutaisi. ([source](https://github.com/N1k0Devv/ku
 **N1kodev Studio** — Web and design work for clients in hospitality, real estate, fitness, and local industry, including the Kutaisi Stone factory site.
 
 **SMMA** — Social media campaigns, content, and ads for businesses.
+
+## Certifications
+
+Courses at **TBC Tech School** (Geolab):
+
+- **Graphic Design**, Oct–Dec 2025
+- **Training of Trainers (ToT)**, TBC Tech School Ambassadors Program, Mar–Apr 2026
+- **Web Management with AI**, May–Jun 2026
+- **Website Programming (Backend: Python)**, May–Jul 2026
+- **Taught short educational courses** as a TBC Tech School Ambassador, May–Jul 2026
 
 ## Contact
 
