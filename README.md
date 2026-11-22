@@ -64,6 +64,8 @@ Courses at **TBC Tech School** (Geolab):
 - **Website Programming (Backend: Python)**, May–Jul 2026
 - **Taught short educational courses** as a TBC Tech School Ambassador, May–Jul 2026
 
+**Currently learning:** digital marketing courses at TBC Tech School and on Coursera, and actively studying sales and psychology.
+
 ## Contact
 
 [n1kodev.com](https://www.n1kodev.com) · [flowdaily.org](https://flowdaily.org) · [GitHub](https://github.com/N1k0Devv)
